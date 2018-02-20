@@ -110,6 +110,7 @@ nav a:visited /* Apparence quand on a déjà cliqué sur le lien */
 }
 .choix_pedagogique
 {
+	display:inline;
 	font-weight:bold;
 	color:rgb(50,50,50);
 	box-shadow:6px 6px 2px rgb(100,100,100);
@@ -139,8 +140,8 @@ em
 	background-color:#999999;
 	border-radius:10px;
 	margin-right:20px;
-	min-height:170%;
 	position:relative;
+	height:200%;
 }
 .liste_module
 {
@@ -170,4 +171,8 @@ em
 }
 .imageDroite{
 	display:inline;
+}
+.divCentree{
+	width:100%;
+	text-align:center;
 }
