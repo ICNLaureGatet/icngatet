@@ -1,0 +1,22 @@
+
+h2{
+  font-size:1.3em;
+  font-style:italic;
+  color:#FF0000;
+  text-decoration:underline;
+}
+.logo{
+  width:40px;
+  vertical-align:middle;
+}
+.logo2{
+  width:120px;
+  vertical-align:middle;
+}
+table{
+  font-family:Comic sans MS, Arial,Verdana, sans-serif;
+  font-size:1.1em;
+}
+.marge{
+  padding-left:15px;
+}
