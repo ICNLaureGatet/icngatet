@@ -6,11 +6,11 @@ h2{
   text-decoration:underline;
 }
 .logo{
-  width:40px;
+  width:60px;
   vertical-align:middle;
 }
 .logo2{
-  width:120px;
+  width:150px;
   vertical-align:middle;
 }
 table{
@@ -19,4 +19,24 @@ table{
 }
 .marge{
   padding-left:15px;
+}
+.aCote{
+  float:right;
+  padding:15px;
+}
+.pad{
+  padding:10px;
+  padding-bottom:50px;
+}
+.sectionRetour{
+  margin-left:6px;
+  background-color:rgba(140,140,140,0.6);
+  box-shadow:-6px -6px 2px rgba(100,100,100,0.6);
+  border-radius:5px;
+  height:50px;
+}
+.Retour{
+  margin:5px;
+  margin-left:20px;
+  height:20px;
 }
